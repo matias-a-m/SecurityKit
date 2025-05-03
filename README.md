@@ -30,7 +30,7 @@
 Añade la siguiente dependencia en tu archivo `Package.swift`:
 
 ```swift
-.package(url: "https://github.com/tuusuario/SecurityKit", from: "1.0.0")
+.package(url: "https://github.com/matias-a-m/SecurityKit", from: "1.0.0")
 ```
 
 Importa el framework en tu código:
